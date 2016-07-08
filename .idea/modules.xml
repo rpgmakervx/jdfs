@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jdfs.iml" filepath="$PROJECT_DIR$/jdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdfs-common/jdfs-common.iml" filepath="$PROJECT_DIR$/jdfs-common/jdfs-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdfs-datanode/jdfs-datanode.iml" filepath="$PROJECT_DIR$/jdfs-datanode/jdfs-datanode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdfs-namenode/jdfs-namenode.iml" filepath="$PROJECT_DIR$/jdfs-namenode/jdfs-namenode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdfs-test/jdfs-test.iml" filepath="$PROJECT_DIR$/jdfs-test/jdfs-test.iml" />
+    </modules>
+  </component>
+</project>

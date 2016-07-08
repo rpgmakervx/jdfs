@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="jdfs-namenode">
+    <output-path>$PROJECT_DIR$/jdfs-namenode/out/namenode</output-path>
+    <root id="root">
+      <element id="archive" name="namenode.jar">
+        <element id="module-output" name="jdfs-namenode" />
+        <element id="module-output" name="jdfs-common" />
+      </element>
+    </root>
+  </artifact>
+</component>
